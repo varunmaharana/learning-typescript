@@ -1,2 +1,2 @@
-# learning-typescript
-Let's learn TypeScript!
+# TypeScript
+FreeCodeCamp TypeScript Course by Hitesh Choudhary.
